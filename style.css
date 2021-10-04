@@ -1,0 +1,82 @@
+body {
+    background: url(img/leaf.jpg);
+
+    margin-bottom: 0;
+    background-attachment: fixed;
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: #095720;
+    height: 100px;
+}
+
+footer {
+    background-color: #095720;
+    height: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+
+.avatar {
+    width: 100px;
+    height: 100px;
+}
+
+.nav {
+    height: 80px;
+    background-color: #76a130;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.list {
+    padding: 10px;
+    background-color: #76a130;
+    font-size: 20px;
+}
+
+.form {
+    padding: 10px;
+    background-color: #76a130;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.table {
+    padding: 10px;
+    background-color: #30a152;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.number {
+    background-color: rgb(186, 85, 211)
+}
+
+.chet {
+    background-color: #c0816c;
+}
+
+.nechet {
+    background-color: #f35656;
+}
+
+.name {
+    font-size: 25px;
+}
+
+.image {
+    max-width: 100%;
+}
